@@ -28,3 +28,4 @@ C:\Users\baneg\source\repos\E-Commerce\E-Commerce\obj\Debug\net8.0\refint\E-Comm
 C:\Users\baneg\source\repos\E-Commerce\E-Commerce\obj\Debug\net8.0\E-Commerce.pdb
 C:\Users\baneg\source\repos\E-Commerce\E-Commerce\obj\Debug\net8.0\E-Commerce.genruntimeconfig.cache
 C:\Users\baneg\source\repos\E-Commerce\E-Commerce\obj\Debug\net8.0\ref\E-Commerce.dll
+C:\Users\baneg\source\repos\E-Commerce\E-Commerce\obj\Debug\net8.0\E-Commerce.sourcelink.json

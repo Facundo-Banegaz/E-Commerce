@@ -9,6 +9,7 @@ namespace E_Commerce.Models
         [Display(Name = "Nombre:")]
         [Required(ErrorMessage = "Por favor ingresar el nombre del producto:")]
         public string Nombre { get; set; }
+
         public string Descripcion {  get; set; }
         [Range(1, 15)]
         [Required(ErrorMessage = "Por favor ingrese el precio del producto:")]
