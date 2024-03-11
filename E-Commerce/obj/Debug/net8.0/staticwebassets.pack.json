@@ -13,6 +13,18 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\baneg\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\img\\portada.jpg",
+      "PackagePath": "staticwebassets\\img\\portada.jpg"
+    },
+    {
+      "Id": "C:\\Users\\baneg\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\img\\portada2.jpg",
+      "PackagePath": "staticwebassets\\img\\portada2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\baneg\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\img\\portada3.jpg",
+      "PackagePath": "staticwebassets\\img\\portada3.jpg"
+    },
+    {
       "Id": "C:\\Users\\baneg\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

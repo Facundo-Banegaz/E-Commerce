@@ -11,5 +11,9 @@ namespace E_Commerce.Models
         [StringLength(150, MinimumLength = 4)]
         public string Nombre { get; set; }
 
+        [Required(ErrorMessage = "Por favor selecciona una imagen.")]
+        [Display(Name = "Imagen")]
+        public IFormFile ImagenFile { get; set; }
+
     }
 }
